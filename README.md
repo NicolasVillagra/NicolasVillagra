@@ -1,7 +1,7 @@
 # ¡Hola, soy Nicolas! 👋
 
 ![Programador Junior](https://img.shields.io/badge/Programador-Junior-brightgreen)
-![Ubicación](https://img.shields.io/badge/Ubicación-DondeEstoy-blue)
+!Argentina(https://img.shields.io/badge/Ubicación-DondeEstoy-blue)
 
 Soy un apasionado programador junior graduado de [Soy Henry](https://www.soyhenry.com/), en búsqueda de mi primer trabajo en el mundo del desarrollo web. Tengo experiencia y conocimientos en diversas tecnologías y estoy ansioso por aplicar mis habilidades para contribuir en proyectos emocionantes.
 
