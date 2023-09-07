@@ -1,17 +1,42 @@
-<h1 align="center">Hola👋, Soy Nicolas</h1>
-<h3 align="center">Un apasionado frontend developer de Argentina</h3>
+# ¡Hola, soy [Nombre del Programador]! 👋
 
-- 🔭Actualmente trabajo [ServiMark](https://github.com/NicolasVillagra/Servimark-Proyect)
+![Programador Junior](https://img.shields.io/badge/Programador-Junior-brightgreen)
+![Ubicación](https://img.shields.io/badge/Ubicación-DondeEstoy-blue)
 
-- 🌱 Estudie en **Soy henry**
+Soy un apasionado programador junior graduado de [Soy Henry](https://www.soyhenry.com/), en búsqueda de mi primer trabajo en el mundo del desarrollo web. Tengo experiencia y conocimientos en diversas tecnologías y estoy ansioso por aplicar mis habilidades para contribuir en proyectos emocionantes.
 
-- 👯 Tambien colabore en la pagina de un hotel [Oasis Hotel](https://github.com/pf40a)
+## Habilidades y Tecnologías 🔧
 
-- 📫 Puedes contactarte conmigo por corre **villagrajosenicolas@gmail.com**
+- Frontend: 
+  - React.js
+  - React-Redux
+  - Tailwind UI
+  - HTML5
+  - CSS3
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- Backend:
+  - Node.js
+  - Express.js
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- Base de Datos:
+  - PostgreSQL
+  - Sequelize
+
+## Proyectos Destacados 🚀
+
+- [Proyecto 1](Enlace al proyecto 1): Breve descripción del proyecto y tu contribución.
+- [Proyecto 2](Enlace al proyecto 2): Breve descripción del proyecto y tu contribución.
+- [Proyecto 3](Enlace al proyecto 3): Breve descripción del proyecto y tu contribución.
+
+## Contacto 📫
+
+¡Estoy interesado en oportunidades de trabajo y colaboración! Si quieres saber más sobre mí o trabajar juntos en un proyecto, no dudes en contactarme:
+
+- Email: [tuemail@email.com](mailto:tuemail@email.com)
+- LinkedIn: [Tu Nombre en LinkedIn](https://www.linkedin.com/in/tunombrelinkedin)
+- Twitter: [@TuNombreTwitter](https://twitter.com/TuNombreTwitter)
+
+## ¡Hablemos! 💬
+
+¡Estoy emocionado por lo que depara el futuro y estoy seguro de que puedo aportar valor a tu equipo o proyecto! Si buscas a alguien con pasión por la programación y un fuerte deseo de aprender y crecer, ¡no dudes en contactarme!
+
