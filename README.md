@@ -24,17 +24,15 @@ Soy un apasionado programador junior graduado de [Soy Henry](https://www.soyhenr
 
 ## Proyectos Destacados 🚀
 
-- [Proyecto 1](Enlace al proyecto 1): Breve descripción del proyecto y tu contribución.
-- [Proyecto 2](Enlace al proyecto 2): Breve descripción del proyecto y tu contribución.
-- [Proyecto 3](Enlace al proyecto 3): Breve descripción del proyecto y tu contribución.
+- Oasis Hotel https://github.com/pf40a: Pagina de un hotel, que se centra en que el usuario pueda reserva via online, trabaje como front-end, haciendo varias contribuciones como el estilado usando Tailwind ui , en la logica para hacer reservas , en renderizados condicionales , y el carrito de compras.
+- Food Page https://github.com/NicolasVillagra/PI-FOOD : Pagina de recetas de comidas, en la que el usuario puede buscar recetas de varias parte del mundo, trabaje como FullStack, usando el front-end React,Redux y Css module, mientras que en el back-end use Node.js,Express,sequelize y postgress.
 
 ## Contacto 📫
 
 ¡Estoy interesado en oportunidades de trabajo y colaboración! Si quieres saber más sobre mí o trabajar juntos en un proyecto, no dudes en contactarme:
 
-- Email: [tuemail@email.com](mailto:tuemail@email.com)
-- LinkedIn: [Tu Nombre en LinkedIn](https://www.linkedin.com/in/tunombrelinkedin)
-- Twitter: [@TuNombreTwitter](https://twitter.com/TuNombreTwitter)
+- Email: villagrajosenicolas@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jose-nicolas-villagra-83332a242
 
 ## ¡Hablemos! 💬
 
