@@ -3,7 +3,7 @@
 ![Programador Junior](https://img.shields.io/badge/Programador-Junior-brightgreen)
 
 
-Soy un apasionado programador junior graduado de [Soy Henry](https://www.soyhenry.com/), en búsqueda de mi primer trabajo en el mundo del desarrollo web. Tengo experiencia y conocimientos en diversas tecnologías y estoy ansioso por aplicar mis habilidades para contribuir en proyectos emocionantes.
+Soy un apasionado programador junior graduado de [Soy Henry](https://www.soyhenry.com/),. Tengo experiencia de 2+ añosy conocimientos en diversas tecnologías y estoy ansioso por aplicar mis habilidades para contribuir en proyectos emocionantes.
 
 ## Habilidades y Tecnologías 🔧
 
@@ -13,14 +13,18 @@ Soy un apasionado programador junior graduado de [Soy Henry](https://www.soyhenr
   - Tailwind UI
   - HTML5
   - CSS3
+  - Next.js
 
 - Backend:
   - Node.js
   - Express.js
+  - Rust
+  - Nest.Js
 
 - Base de Datos:
   - PostgreSQL
   - Sequelize
+  - MongoDB
 
 ## Proyectos Destacados 🚀
 
